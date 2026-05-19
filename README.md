@@ -106,17 +106,15 @@ A dedicated React.js practice repository where I continuously build and experime
 
 ---
 
-# 📊 Stats & Activity
+# 📊 GitHub Stats
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=therajsingh&theme=kanagawa-paper&border_radius=20&short_numbers=true&fire=31EB87)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=therajsingh&theme=kanagawa-paper&border_radius=20&short_numbers=true&fire=31EB87" alt="GitHub Streak" /></a>
 
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=therajsingh&theme=tokyonight&hide_border=true" height="180"/>
   &nbsp;&nbsp;
-  <img src="https://leetcard.jacoblin.cool/therajsingh?theme=dark&font=Nunito&ext=heatmap" height="180"/>
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=therajsingh&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
-</p>
+# 📊 LeetCode Stats
+  <img src="https://leetcard.jacoblin.cool/therajsingh?theme=dark&font=Nunito&ext=heatmap" height="180"/>
 
 ---
 
