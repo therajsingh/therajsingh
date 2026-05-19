@@ -108,17 +108,15 @@ A dedicated React.js practice repository where I continuously build and experime
 
 ---
 
-# 📊 Stats & Activity
-
 <div align="center">
 
-### <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="25"/> GitHub Stats
+# <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="25"/> GitHub Stats
 
 <img src="https://streak-stats.demolab.com?user=therajsingh&theme=tokyonight&hide_border=true" width="700"/>
 
-<br><br>
+---
 
-### <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="25"/> LeetCode Stats
+# <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="25"/> LeetCode Stats
 
 <img src="https://leetcard.jacoblin.cool/therajsingh?theme=dark&font=Nunito&ext=contest&border=0&radius=20" width="700"/>
 
