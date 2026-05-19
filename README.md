@@ -109,14 +109,15 @@ A dedicated React.js practice repository where I continuously build and experime
 ---
 
 # <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="25"/> GitHub Stats
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=therajsingh&theme=kanagawa-paper&border_radius=20&short_numbers=true&fire=31EB87" alt="GitHub Streak" />
-
+<center>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=therajsingh&theme=kanagawa-paper&border_radius=20&short_numbers=true&fire=31EB87" alt="GitHub Streak" />
+</center>
 ---
 
 # <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="25"/> LeetCode Stats
-
-<img align="center" src="https://leetcard.jacoblin.cool/therajsingh?theme=dark&font=Nunito" width="495"/>
-
+<center>
+<img src="https://leetcard.jacoblin.cool/therajsingh?theme=dark&font=Nunito" width="495"/>
+</center>
 ---
 
 # 📚 Currently Exploring
@@ -135,11 +136,11 @@ A dedicated React.js practice repository where I continuously build and experime
 <a href="https://www.linkedin.com/in/raj-singh" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-
+&nbsp;&nbsp;
 <a href="https://github.com/therajsingh" target="_blank">
 <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-
+&nbsp;&nbsp;
 <a href="https://leetcode.com/u/therajsingh" target="_blank">
 <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=yellow" />
 </a>
