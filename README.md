@@ -1,23 +1,31 @@
 <h1 align="center">Hi 👋, I'm Raj Singh</h1>
-<h3 align="center">Full Stack Developer | MCA Student at BHU RGSC | Java & MERN Stack Developer</h3>
+<h3 align="center">
+Full Stack Developer • MERN Stack Developer • MCA Student at BHU
+</h3>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=therajsingh&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
 ---
 
 # 👨‍💻 About Me
 
-🎓 MCA Student at Banaras Hindu University
-💻 Full Stack Developer focused on MERN Stack applications
-🚀 Building scalable web applications & real-world projects
-🌱 Currently learning Backend Engineering & System Design
-📚 Solved 200+ DSA problems in Java
+🎓 MCA Student at Banaras Hindu University <br>
+💻 Full Stack Developer focused on MERN Stack applications <br>
+🚀 Building scalable web applications & real-world projects <br>
+🌱 Currently learning Backend Engineering & System Design <br>
+📚 Solved 200+ DSA problems in Java <br>
 ⚡ Interested in IoT, APIs, Automation & Full Stack Development
 
 ---
 
 # 🚀 Featured Projects
 
-## 🌾 FarmMind
+## 🌾 [FarmMind](https://github.com/therajsingh/farmmind-backend)(https://github.com/therajsingh/farmmind-frontend)
 An IoT + AI powered agriculture platform integrating ESP32 hardware with MERN stack applications for smart farming insights.
+
+### Live Demo
+🚀 https://farmmind-frontend.vercel.app/
 
 ### Features
 - Real-time soil monitoring
@@ -28,11 +36,16 @@ An IoT + AI powered agriculture platform integrating ESP32 hardware with MERN st
 ### Tech Stack
 `React.js` `Node.js` `Express.js` `MongoDB` `ESP32` `LLM APIs`
 
+#### FarmMind Dashboard
+![FarmMind Screenshot](https://drive.google.com/file/d/1bjK1dyU9vo42uL069g7HX1aYyhS0SGJ2/view?usp=sharing)
+
 ---
 
-## ✈️ WanderLust
+## ✈️ [WanderLust](https://github.com/therajsingh/wanderlust)
 A full-stack travel listing and accommodation booking platform inspired by Airbnb.
 
+### Live Demo
+🚀 https://wanderlust-m7md.onrender.com/listings
 ### Features
 - Authentication & Authorization
 - Property Listings
@@ -43,9 +56,16 @@ A full-stack travel listing and accommodation booking platform inspired by Airbn
 ### Tech Stack
 `Node.js` `Express.js` `MongoDB` `EJS` `Cloudinary` `Passport.js`
 
+#### WanderLust Dashboard
+
+<p align="center">
+  <img src="https://drive.google.com/file/d/1rbIOMGiM2eGfYWZoLxlLOZof_0P-l10c/view?usp=sharing)" width="800"/>
+</p>
+
 ---
 
-## ▶️ React-YT
+## ▶️ [React-YT](https://github.com/therajsingh/react-yt)
+
 A dedicated React.js practice repository where I continuously build and experiment with modern React concepts while improving frontend development skills.
 
 ### What I Practice
@@ -99,21 +119,35 @@ This repository serves as my React upskilling journey where I regularly implemen
 
 # 📈 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=therajsingh&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=therajsingh&show_icons=true&theme=tokyonight" />
+</p>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=therajsingh&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=therajsingh&theme=tokyonight" />
+</p>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=therajsingh&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=therajsingh&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
-# 📚 Currently Learning
+# 📚 Currently Exploring
 
-- Backend Engineering
-- System Design Basics
-- Advanced DSA
-- REST API Architecture
-- Scalable MERN Applications
+- Backend System Design
+- Scalable MERN Architectures
+- API Security & Authentication
+- Advanced Data Structures & Algorithms
+- Real-Time Applications with Socket.IO
+
+---
+
+# 📊 LeetCode Stats
+
+<p align="center">
+<img src="https://leetcard.jacoblin.cool/therajsingh?theme=dark&font=Nunito&ext=contest" />
+</p>
 
 ---
 
@@ -128,7 +162,7 @@ This repository serves as my React upskilling journey where I regularly implemen
 <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<a href="https://leetcode.com/](https://leetcode.com/u/therajsingh" target="_blank">
+<a href="https://leetcode.com/u/therajsingh" target="_blank">
 <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=yellow" />
 </a>
 </p>
@@ -137,14 +171,10 @@ This repository serves as my React upskilling journey where I regularly implemen
 
 ---
 
-# 📊 LeetCode Stats
-
-<p align="center">
-<img src="https://leetcard.jacoblin.cool/therajsingh?theme=dark&font=Nunito&ext=contest" />
-</p>
-
----
-
 # ⚡ Fun Fact
 
 I enjoy building practical software solutions, solving DSA problems, and continuously improving my development skills 🚀
+
+---
+
+⭐️ From [therajsingh](https://github.com/therajsingh)
