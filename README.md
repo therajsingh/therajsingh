@@ -41,7 +41,7 @@ An IoT + AI powered agriculture platform integrating ESP32 hardware with MERN st
 ## 📸 FarmMind Dashboard
 
 <p align="center">
-  <img src="./screenshots/farmMindSS.png" width="900"/>
+  <img src="./screenshots/farmMindSS.png" height="180"/>
 </p>
 
 ---
@@ -64,7 +64,7 @@ A full-stack travel listing and accommodation booking platform inspired by Airbn
 ## 📸 WanderLust Dashboard
 
 <p align="center">
-  <img src="./screenshots/wanderLustSS.png" width="900"/>
+  <img src="./screenshots/wanderLustSS.png" height="180"/>
 </p>
 
 ---
@@ -125,19 +125,17 @@ This repository serves as my React upskilling journey where I regularly implemen
 # 📊 Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=therajsingh&show_icons=true&theme=tokyonight" height="170"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=therajsingh&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
   
-  <img src="https://leetcard.jacoblin.cool/therajsingh?theme=dark&font=Nunito&ext=contest" height="170"/>
-</p>
-
----
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=therajsingh&theme=tokyonight" />
+  <img height="170em" src="https://leetcard.jacoblin.cool/therajsingh?theme=dark&font=Nunito&ext=contest"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=therajsingh&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=therajsingh&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=therajsingh&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
