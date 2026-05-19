@@ -108,20 +108,16 @@ A dedicated React.js practice repository where I continuously build and experime
 
 # 📊 Stats & Activity
 
-<!-- 
-  FIX: The default github-readme-stats hosted version hits rate limits often.
-  RECOMMENDED: Deploy your own instance on Vercel for free:
-  https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_fr.md#deploy-on-your-own-vercel-instance
-  Then replace YOUR_VERCEL_DEPLOYMENT below with your own URL.
-
-  UNTIL THEN: using cache_seconds=86400 + theme to reduce rate limit hits.
--->
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=therajsingh&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" height="170"/>
-  &nbsp;
-  <img src="https://leetcard.jacoblin.cool/therajsingh?theme=dark&font=Nunito&ext=contest" height="170"/>
-</p>
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=therajsingh&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" height="180"/>
+    </td>
+    <td>
+      <img src="https://leetcard.jacoblin.cool/therajsingh?theme=dark&font=Nunito&ext=heatmap" height="180"/>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=therajsingh&theme=tokyonight&hide_border=true" />
