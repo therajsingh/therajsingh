@@ -5,12 +5,12 @@
 
 # 👨‍💻 About Me
 
-- 🎓 MCA Student at BHU RGSC (Banaras Hindu University)
-- 💻 Full Stack Developer focused on MERN Stack applications
-- 🚀 Building scalable web applications & real-world projects
-- 🌱 Currently learning Backend Engineering & System Design
-- 📚 Solved 200+ DSA problems in Java
-- ⚡ Interested in IoT, APIs, Automation & Full Stack Development
+🎓 MCA Student at Banaras Hindu University
+💻 Full Stack Developer focused on MERN Stack applications
+🚀 Building scalable web applications & real-world projects
+🌱 Currently learning Backend Engineering & System Design
+📚 Solved 200+ DSA problems in Java
+⚡ Interested in IoT, APIs, Automation & Full Stack Development
 
 ---
 
@@ -46,13 +46,19 @@ A full-stack travel listing and accommodation booking platform inspired by Airbn
 ---
 
 ## ▶️ React-YT
-A modern YouTube-inspired frontend application built using React and Vite.
+A dedicated React.js practice repository where I continuously build and experiment with modern React concepts while improving frontend development skills.
 
-### Features
-- Responsive UI
-- Video browsing layout
-- Sidebar navigation
-- Reusable React components
+### What I Practice
+- React Components
+- Props & State Management
+- Hooks
+- Routing
+- API Integration
+- Responsive UI Design
+- Reusable Components
+
+### Purpose
+This repository serves as my React upskilling journey where I regularly implement concepts through hands-on mini-projects and UI recreations.
 
 ### Tech Stack
 `React.js` `JavaScript` `CSS` `Vite`
@@ -122,12 +128,20 @@ A modern YouTube-inspired frontend application built using React and Vite.
 <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<a href="https://leetcode.com/" target="_blank">
+<a href="https://leetcode.com/](https://leetcode.com/u/therajsingh" target="_blank">
 <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=yellow" />
 </a>
 </p>
 
 📧 developer.rajsingh@gmail.com
+
+---
+
+# 📊 LeetCode Stats
+
+<p align="center">
+<img src="https://leetcard.jacoblin.cool/therajsingh?theme=dark&font=Nunito&ext=contest" />
+</p>
 
 ---
 
