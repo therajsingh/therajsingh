@@ -39,7 +39,7 @@ An IoT + AI powered agriculture platform integrating ESP32 hardware with MERN st
 
 ### Farmmind Dashboard
 <p align="center">
-  <img src="./screenshots/farmMindSS.png" height="180"/>
+  <img src="./screenshots/farmMindSS.png" height="400"/>
 </p>
 
 ---
@@ -62,7 +62,7 @@ A full-stack travel listing and accommodation booking platform inspired by Airbn
 
 ### WanderLust Dashboard
 <p align="center">
-  <img src="./screenshots/wanderLustSS.png" height="180"/>
+  <img src="./screenshots/wanderLustSS.png" height="400"/>
 </p>
 
 ---
