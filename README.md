@@ -125,17 +125,17 @@ This repository serves as my React upskilling journey where I regularly implemen
 # 📊 Stats & Activity
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=therajsingh&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
-  
-  <img height="170em" src="https://leetcard.jacoblin.cool/therajsingh?theme=dark&font=Nunito&ext=contest"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=therajsingh&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+
+  <img src="https://leetcard.jacoblin.cool/therajsingh?theme=dark&font=Nunito&ext=contest" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=therajsingh&theme=tokyonight"/>
+  <img src="https://streak-stats.demolab.com?user=therajsingh&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=therajsingh&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=therajsingh&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
