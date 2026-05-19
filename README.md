@@ -11,11 +11,11 @@ Full Stack Developer • MERN Stack Developer • MCA Student at BHU
 
 # 👨‍💻 About Me
 
-🎓 MCA Student at Banaras Hindu University  
-💻 Full Stack Developer focused on MERN Stack applications  
-🚀 Building scalable web applications & real-world projects  
-🌱 Currently learning Backend Engineering & System Design  
-📚 Solved 120+ DSA problems on LeetCode
+🎓 MCA Student at Banaras Hindu University<br>
+💻 Full Stack Developer focused on MERN Stack applications<br>
+🚀 Building scalable web applications & real-world projects<br>
+🌱 Currently learning Backend Engineering & System Design<br>
+📚 Solved 120+ DSA problems on LeetCode<br>
 ⚡ Interested in IoT, APIs, Automation & Full Stack Development
 
 ---
