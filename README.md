@@ -111,7 +111,7 @@ A dedicated React.js practice repository where I continuously build and experime
 # <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="25"/> GitHub Stats
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=therajsingh&theme=kanagawa-paper&border_radius=20&short_numbers=true&fire=31EB87" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=therajsingh&theme=kanagawa-paper&border_radius=20&short_numbers=true&fire=31EB87" alt="GitHub Streak" />
 </p>
 
 ---
